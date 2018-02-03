@@ -1,2 +1,2 @@
 const app = "I don't do much."
-var arr = ""
+var arr = "Hi", 
