@@ -1,3 +1,5 @@
 const app = "I don't do much."
-var arr = ["Hi", "Hello", "Allo", "Hola"]
-arr.push();
+function destructivelyAppendKitten(name){
+  name.push("Mario");
+  return name;
+}
